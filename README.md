@@ -9,4 +9,5 @@ Written in VB, allows for easy changing of player names, bracket stage and playe
 
 - Not write it in VB
 - Instead of endless If statements, use filenames as selection options for icons
-- If name consistency/readability still a problem, use hash to map readable names to relevant icon 
+- If name consistency/readability still a problem, use hash to map readable names to relevant icon
+- Not write it in a rush while sleepy at 1am in the morning
